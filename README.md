@@ -18,3 +18,6 @@ eg: Sudoko.txt
 007390200
 080000060
 ```
+
+## TODO
+1) Add more Tests both e2e and unit
